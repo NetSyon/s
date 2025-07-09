@@ -926,7 +926,7 @@ const App = () => {
             <div className="flex items-center">
               <div className="flex-shrink-0">
                 <img 
-                  src="/cmlogo.png" 
+                  src={`${process.env.PUBLIC_URL}/cmlogo.png`} 
                   alt="NetSyon" 
                   className="h-8 w-auto"
                 />
@@ -1434,7 +1434,7 @@ const App = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="text-center">
             <img 
-              src="/cmlogo.png" 
+              src={`${process.env.PUBLIC_URL}/cmlogo.png`} 
               alt="NetSyon" 
               className="h-8 w-auto mx-auto mb-4"
             />
