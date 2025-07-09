@@ -265,7 +265,7 @@ const App = () => {
         privacyPolicy: 'Politique de Confidentialité',
         termsOfService: 'Conditions d\'Utilisation',
         footerSupport: 'Support',
-        copyright: '© 2025 NetSyon Consultation TI. Tous droits réservés.',
+        copyright: '© 2025 NetSyon. Tous droits réservés.',
       }
     };
     
@@ -357,7 +357,7 @@ const App = () => {
                 <h3 className="text-xl font-bold text-white mb-3">Politique de Confidentialité</h3>
                 <p className="text-sm text-slate-400 mb-4">Date d'entrée en vigueur : 1er janvier 2025</p>
                 <p className="mb-4">
-                  NetSyon Consultation TI (« NetSyon », « nous », « notre ») s'engage à protéger votre vie privée. 
+                  NetSyon (« NetSyon », « nous », « notre ») s'engage à protéger votre vie privée. 
                   Cette Politique de Confidentialité explique comment nous collectons, utilisons, divulguons et protégeons 
                   vos informations lorsque vous visitez notre site web ou utilisez nos services.
                 </p>
@@ -512,7 +512,7 @@ const App = () => {
                 <h3 className="text-xl font-bold text-white mb-3">Conditions d'Utilisation</h3>
                 <p className="text-sm text-slate-400 mb-4">Date d'entrée en vigueur : 1er janvier 2025</p>
                 <p className="mb-4">
-                  Ces Conditions d'Utilisation (« Conditions ») régissent votre utilisation des services et du site web de NetSyon Consultation TI. 
+                  Ces Conditions d'Utilisation (« Conditions ») régissent votre utilisation des services et du site web de NetSyon. 
                   En utilisant nos services, vous acceptez ces conditions.
                 </p>
               </div>
@@ -793,11 +793,11 @@ const App = () => {
                     <p className="text-slate-400">Temps de réponse : 4 heures pendant les heures d'affaires</p>
                   </div>
                   <div className="bg-slate-800/30 p-3 rounded-lg">
-                    <p><strong>Support Téléphonique :</strong> +1 (555) 123-4567</p>
+                    <p><strong>Support Téléphonique :</strong> +1 (514) 400-4279</p>
                     <p className="text-slate-400">Disponible : Lundi-Vendredi 8h00 - 18h00 (EST)</p>
                   </div>
                   <div className="bg-slate-800/30 p-3 rounded-lg">
-                    <p><strong>Ligne d'Urgence :</strong> +1 (555) 123-4567</p>
+                    <p><strong>Ligne d'Urgence :</strong> +1 (514) 400-4279</p>
                     <p className="text-slate-400">24/7 pour incidents de sécurité critiques</p>
                   </div>
                 </div>
